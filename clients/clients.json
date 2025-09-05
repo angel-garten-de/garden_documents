@@ -10,63 +10,13 @@
     "version": 1
   },
   {
-    "company_name": "My Custom office",
-    "client_name": "Arsen Simonyan",
-    "email": "arsen.simonyan.a@gmail.com",
+    "company_name": "",
+    "client_name": "All Simonyan",
+    "email": "alla.petrosyan.84@gmail.com",
     "city": "Yerevan",
     "street": "Amiryan 22",
     "zip": "2413",
-    "gender": "Herr",
-    "version": 1
-  },
-  {
-    "company_name": "My Custom office",
-    "client_name": "Arsen1 Simonyan1",
-    "email": "arsen.simonyan.a@gmail.com",
-    "city": "Yerevan",
-    "street": "Amiryan 22",
-    "zip": "2413",
-    "gender": "Herr",
-    "version": 1
-  },
-  {
-    "company_name": "My Custom office",
-    "client_name": "Arsen2 Simonyan2",
-    "email": "arsen.simonyan.a@gmail.com",
-    "city": "Yerevan",
-    "street": "Amiryan 22",
-    "zip": "2413",
-    "gender": "Herr",
-    "version": 1
-  },
-  {
-    "company_name": "My Custom office",
-    "client_name": "Arsen3 Simonyan3",
-    "email": "arsen.simonyan.a@gmail.com",
-    "city": "Yerevan",
-    "street": "Amiryan 22",
-    "zip": "2413",
-    "gender": "Herr",
-    "version": 1
-  },
-  {
-    "company_name": "My Custom office",
-    "client_name": "Arsen4 Simonyan4",
-    "email": "arsen.simonyan.a@gmail.com",
-    "city": "Yerevan",
-    "street": "Amiryan 22",
-    "zip": "2413",
-    "gender": "Herr",
-    "version": 1
-  },
-  {
-    "company_name": "My Custom office",
-    "client_name": "Arsen5 Simonyan5",
-    "email": "arsen.simonyan.a@gmail.com",
-    "city": "Yerevan",
-    "street": "Amiryan 22",
-    "zip": "2413",
-    "gender": "Herr",
+    "gender": "Frau",
     "version": 1
   }
 ]
