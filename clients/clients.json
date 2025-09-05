@@ -38,5 +38,15 @@
     "zip": "2413",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "My Custom office",
+    "client_name": "Arsen3 Simonyan3",
+    "email": "arsen.simonyan.a@gmail.com",
+    "city": "Yerevan",
+    "street": "Amiryan 22",
+    "zip": "2413",
+    "gender": "Herr",
+    "version": 1
   }
 ]
