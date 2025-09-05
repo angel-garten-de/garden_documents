@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "",
+  "city": "",
+  "street": "",
+  "zip": "",
+  "date": "03.09.2025",
+  "email": "",
+  "gender": "",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0025",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "save_pdf": true,
+  "items": []
+}
