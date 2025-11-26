@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Dieter Bolling",
+  "city": "Tespe",
+  "street": "Twiete 7A",
+  "zip": "21395",
+  "date": "02.10.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Angebot",
+  "invoice_number": "25-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": false,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Wandfassadenfarbe 4mal",
+      "price": 3000.0,
+      "total": 3000.0
+    }
+  ]
+}

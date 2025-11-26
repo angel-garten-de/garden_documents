@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "David Akopjan",
+  "city": "Wentorf",
+  "street": "Wischhoff  8",
+  "zip": "21465",
+  "date": "21.09.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0025",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": false,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Rasenmähen, Pflege, Heckenschneiden, Abschneiden abgestorbener Büsche inkl. Entfernung, Abriss und Entfernung von Gewächshäusern.\n21.08.25",
+      "price": 3200.0,
+      "total": 3200.0
+    }
+  ]
+}

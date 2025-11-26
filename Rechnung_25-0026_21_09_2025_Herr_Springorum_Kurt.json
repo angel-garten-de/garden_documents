@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Kurt Springorum",
+  "city": "Hamburg",
+  "street": "Bredenbekhörn",
+  "zip": "22397",
+  "date": "21.09.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0026",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": false,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Bau eines Grills mit Überdachung. Bau eines Daches für Fahrradabstellplätze. Gartenpflege\n02.09.2517",
+      "price": 7544.57,
+      "total": 7544.57
+    }
+  ]
+}

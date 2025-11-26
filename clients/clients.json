@@ -1,22 +1,52 @@
 [
   {
     "company_name": "",
-    "client_name": "Petra  Boockhaff",
-    "email": "ptoockhoff@web.de",
+    "client_name": "David Akopjan",
+    "email": "",
+    "city": "Reinbek",
+    "street": "Bernhard-Ihnen-Straße",
+    "zip": "21465",
+    "gender": "Herr",
+    "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Kircher Immobilien",
+    "email": "",
     "city": "Geesthacht",
-    "street": "Amselstraße 3",
+    "street": "Schüttberg 12a",
     "zip": "21502",
+    "gender": "",
+    "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Marga Schäfer",
+    "email": "",
+    "city": "Hamburg",
+    "street": "Bredenbekhoern 3",
+    "zip": "22397",
     "gender": "Frau",
     "version": 1
   },
   {
     "company_name": "",
-    "client_name": "All Simonyan",
-    "email": "alla.petrosyan.84@gmail.com",
-    "city": "Yerevan",
-    "street": "Amiryan 22",
-    "zip": "2413",
-    "gender": "Frau",
+    "client_name": "T.Herbold als Insolvenzverwalter ü.d.V. der Domaniecki Dental Center GmbH",
+    "email": "",
+    "city": "Hamburg",
+    "street": "Langenstücken  34",
+    "zip": "22393",
+    "gender": "Herr",
+    "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Petra",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "",
+    "zip": "21502",
+    "gender": "",
     "version": 1
   }
 ]

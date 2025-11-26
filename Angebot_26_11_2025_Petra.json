@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Petra",
+  "city": "Geesthacht",
+  "street": "",
+  "zip": "21502",
+  "date": "26.11.2025",
+  "email": "",
+  "gender": "",
+  "doc_type": "Angebot",
+  "invoice_number": "25-0032",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Der neu errichtete Eisenzaun und der Austausch der durch Frosts Auto beschädigten und verbeulten Teile durch neue. >Das",
+      "price": 400.0,
+      "total": 400.0
+    }
+  ]
+}

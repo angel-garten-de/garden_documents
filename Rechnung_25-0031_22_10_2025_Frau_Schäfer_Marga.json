@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Marga Schäfer",
+  "city": "Hamburg",
+  "street": "Bredenbekhoern 3",
+  "zip": "22397",
+  "date": "22.10.2025",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0031",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": false,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Wänder  streichen ,Parkett schleifen und lackieren.",
+      "price": 1100.0,
+      "total": 1100.0
+    }
+  ]
+}

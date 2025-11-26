@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "David Akopjan",
+  "city": "Reinbek",
+  "street": "Bernhard-Ihnen-Straße",
+  "zip": "21465",
+  "date": "21.10.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": false,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege,Heckenschneiden,Buschschneiden inkl.Entsorgung",
+      "price": 860.0,
+      "total": 860.0
+    }
+  ]
+}
