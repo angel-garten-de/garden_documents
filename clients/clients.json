@@ -48,5 +48,15 @@
     "zip": "21502",
     "gender": "",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Klaus Boockhaff",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Steinstr.",
+    "zip": "21502",
+    "gender": "Herr",
+    "version": 1
   }
 ]
