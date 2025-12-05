@@ -58,5 +58,15 @@
     "zip": "21502",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Carolin Bornemann",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Am Hang 21",
+    "zip": "21502",
+    "gender": "Frau",
+    "version": 1
   }
 ]

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Carolin Bornemann",
+  "city": "Geesthacht",
+  "street": "Am Hang 21",
+  "zip": "21502",
+  "date": "05.12.2025",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0033",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege ,Bush Rückenschnitt, Laubblasen",
+      "price": 620.0,
+      "total": 620.0
+    }
+  ]
+}
