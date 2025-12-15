@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Petra Boockhaff",
+  "city": "Geesthacht",
+  "street": "Amselstr.  1",
+  "zip": "21502",
+  "date": "15.12.2025",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0034",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Der neu errichtete  Eisenzaun und der  Austausch  der durch Pfosten Auto",
+      "price": 400.0,
+      "total": 400.0
+    }
+  ]
+}
