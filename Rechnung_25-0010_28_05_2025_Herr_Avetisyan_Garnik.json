@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "Sehr geehrte/r Damen und Herren,",
+  "client_name": "Garnik Avetisyan",
+  "city": "Hamburg",
+  "street": "Fabriciusstraße 111",
+  "zip": "22177",
+  "date": "28.05.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0010",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Terresse Renovierung mit Material\n20.05.2025-28.05.2025",
+      "price": 2728.58,
+      "total": 2728.58
+    }
+  ]
+}

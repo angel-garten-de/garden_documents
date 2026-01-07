@@ -108,5 +108,15 @@
     "zip": "21502",
     "gender": "",
     "version": 1
+  },
+  {
+    "company_name": "Sehr geehrte/r Damen und Herren,",
+    "client_name": "Garnik Avetisyan",
+    "email": "",
+    "city": "Hamburg",
+    "street": "Fabriciusstraße 111",
+    "zip": "22177",
+    "gender": "Herr",
+    "version": 1
   }
 ]
