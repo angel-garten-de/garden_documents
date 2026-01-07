@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "Damen und Herren",
+  "client_name": "Hevvit Mitting",
+  "city": "Geesthacht",
+  "street": "Amselstraße 1B",
+  "zip": "21502",
+  "date": "14.01.2025",
+  "email": "",
+  "gender": "",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0006",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Reperatur eine Sturmgeschädigten Zäune, abbau defekter Zäune und ersetzt durch neue Zäune.\nAmselstraße 1B 21502 Geesthacht\n07.01.2025-10.01.2025",
+      "price": 300.0,
+      "total": 300.0
+    }
+  ]
+}
