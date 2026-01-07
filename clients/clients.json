@@ -98,5 +98,15 @@
     "zip": "22393",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "Damen und Herren",
+    "client_name": "Thomas Behrendt",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Dünebergerstr. 2",
+    "zip": "21502",
+    "gender": "",
+    "version": 1
   }
 ]
