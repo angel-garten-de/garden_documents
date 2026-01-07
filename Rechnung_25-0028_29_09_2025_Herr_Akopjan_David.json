@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "David Akopjan",
+  "city": "Reinbek",
+  "street": "Bernhard-Ihnen-Straße 11B",
+  "zip": "21465",
+  "date": "29.09.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0028",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Rasenmähen   \nam 23.08.25 270€ \nam 12.09.25 270€\nSchulstraße 52A-B 21465 Wentorf",
+      "price": 540.0,
+      "total": 540.0
+    }
+  ]
+}
