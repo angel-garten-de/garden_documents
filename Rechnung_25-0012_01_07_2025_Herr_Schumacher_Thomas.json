@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Thomas Schumacher",
+  "city": "Geesthacht",
+  "street": "Marktstraße 5",
+  "zip": "21502",
+  "date": "01.07.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0012",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Wandsäulenreparatur, Statuenaufstellung, inklusive Materialen",
+      "price": 120.0,
+      "total": 120.0
+    }
+  ]
+}

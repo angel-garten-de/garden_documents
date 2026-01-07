@@ -128,5 +128,15 @@
     "zip": "21502",
     "gender": "",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Thomas Schumacher",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Marktstraße 5",
+    "zip": "21502",
+    "gender": "Herr",
+    "version": 1
   }
 ]
