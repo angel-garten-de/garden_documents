@@ -148,5 +148,15 @@
     "zip": "21395",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Kurt Springorum",
+    "email": "",
+    "city": "Hamburg",
+    "street": "Bredenbekhörn 1",
+    "zip": "22397",
+    "gender": "Herr",
+    "version": 1
   }
 ]
