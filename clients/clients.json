@@ -118,5 +118,15 @@
     "zip": "22177",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Ingeborg Spiel",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Hegebergstraße 75",
+    "zip": "21502",
+    "gender": "",
+    "version": 1
   }
 ]
