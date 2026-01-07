@@ -168,5 +168,15 @@
     "zip": "21465",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Marga Schaefer",
+    "email": "",
+    "city": "Hamburg",
+    "street": "Bredenbekhoern 3",
+    "zip": "22397",
+    "gender": "",
+    "version": 1
   }
 ]
