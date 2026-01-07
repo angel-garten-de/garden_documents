@@ -158,5 +158,15 @@
     "zip": "22397",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Marck Gagatek",
+    "email": "",
+    "city": "Wentorf",
+    "street": "Feldstr. 33",
+    "zip": "21465",
+    "gender": "Herr",
+    "version": 1
   }
 ]
