@@ -138,5 +138,15 @@
     "zip": "21502",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Dieter Bolling",
+    "email": "",
+    "city": "Tespe",
+    "street": "Twiete 7A",
+    "zip": "21395",
+    "gender": "Herr",
+    "version": 1
   }
 ]

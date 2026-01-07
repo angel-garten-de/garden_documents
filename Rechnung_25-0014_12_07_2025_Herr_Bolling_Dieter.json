@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Dieter Bolling",
+  "city": "Tespe",
+  "street": "Twiete 7A",
+  "zip": "21395",
+  "date": "12.07.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0014",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege,Heckenschneiden inkl. grünabfall entfernen",
+      "price": 180.0,
+      "total": 180.0
+    }
+  ]
+}
