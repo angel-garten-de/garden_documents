@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Ingeborg Spiel",
+  "city": "Geesthacht",
+  "street": "Hegebergstraße 75",
+  "zip": "21502",
+  "date": "25.07.2025",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0018",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Beete reinigen, Unkraut entfernen, Erde auflockern, Blumen pflegen, inkl. Gartenabfallentsorgung",
+      "price": 250.0,
+      "total": 250.0
+    }
+  ]
+}
