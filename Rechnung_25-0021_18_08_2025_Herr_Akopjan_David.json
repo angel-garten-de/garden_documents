@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "David Akopjan",
+  "city": "Reinbek",
+  "street": "Bernhard-Ihnen-Straße 11B",
+  "zip": "21465",
+  "date": "18.08.2025",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0021",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Hecken und Busch Rückschnittarbeiten inkl.\nEntfernung.\nSchulstraße 30-52, Friedrichsruher\nWeg 32-44\n21465 Wentorf\n08.07.2025-21.07.2025",
+      "price": 3000.0,
+      "total": 3000.0
+    }
+  ]
+}
