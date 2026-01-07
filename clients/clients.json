@@ -78,5 +78,15 @@
     "zip": "21502",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "Damen und Herren",
+    "client_name": "Hevvit Mitting",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Amselstraße 1B",
+    "zip": "21502",
+    "gender": "",
+    "version": 1
   }
 ]
