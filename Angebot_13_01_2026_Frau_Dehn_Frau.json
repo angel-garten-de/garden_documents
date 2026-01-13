@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Frau Dehn",
+  "city": "Geesthacht-Grünhof",
+  "street": "Tesperhuder Str. 22",
+  "zip": "21502",
+  "date": "13.01.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0029",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": []
+}
