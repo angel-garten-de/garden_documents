@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Klaus Boockhaff",
+  "city": "Geesthacht",
+  "street": "Steinstr. 5a",
+  "zip": "21502",
+  "date": "17.01.2026",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0001",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": false,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Baumfällung , Busch Rückenschnitt, Laubblassen inkl. Gartenabfall entsorgung.\nTesperhuder Str. 22 21502 Geesthacht\n22.12.2025",
+      "price": 1500.0,
+      "total": 1500.0
+    }
+  ]
+}
