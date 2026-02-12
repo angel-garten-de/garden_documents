@@ -13,13 +13,13 @@
   "payment_mode": "transfer",
   "payment_days": 14,
   "send_email": false,
-  "remote_cloud_var": false,
-  "save_pdf": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
   "items": [
     {
       "no": "1",
       "qty": 1.0,
-      "description": "Rasenmähen, Pflege, Heckenschneiden, Abschneiden abgestorbener Büsche inkl. Entfernung, Abriss und Entfernung von Gewächshäusern.\n21.08.25",
+      "description": "Rasenmähen, Pflege, Heckenschneiden, inkl. Entfernung Abschneiden und Entfernen von vertrockneten Büschen mit Wurzeln. Abriss und Entfernung von Gewächshäusern.\nWischhoff 8, 21465 Wentorf\n21.08.2025-25.08.2025",
       "price": 3200.0,
       "total": 3200.0
     }
