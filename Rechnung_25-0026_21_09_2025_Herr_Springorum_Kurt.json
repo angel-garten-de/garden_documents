@@ -13,13 +13,13 @@
   "payment_mode": "transfer",
   "payment_days": 14,
   "send_email": false,
-  "remote_cloud_var": false,
-  "save_pdf": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
   "items": [
     {
       "no": "1",
       "qty": 1.0,
-      "description": "Bau eines Grills mit Überdachung. Bau eines Daches für Fahrradabstellplätze. Gartenpflege\n02.09.2517",
+      "description": "Bau eines Grills mit Überdachung inkl. Material. Bau eines Daches für Fahrradabstellplätze mit Material. Gartenpflege\n02.09.2025-17.09.2025",
       "price": 7544.57,
       "total": 7544.57
     }
