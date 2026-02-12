@@ -13,13 +13,13 @@
   "payment_mode": "transfer",
   "payment_days": 14,
   "send_email": false,
-  "remote_cloud_var": false,
-  "save_pdf": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
   "items": [
     {
       "no": "1",
       "qty": 1.0,
-      "description": "Hecken  Rückschnittarbeiten, inkl.Entfernung und gartenabfall alte Entsorgung.\nFriedrichsruher Weg 30-48\n24.09.25",
+      "description": "Hecken  Rückschnittarbeiten, inkl.Entfernung. Gartenabfallenentsorgung.\nFriedrichsruher Weg 30-48 21465 Wentorf\n18.09.2025-24.09.2025",
       "price": 1250.0,
       "total": 1250.0
     }
