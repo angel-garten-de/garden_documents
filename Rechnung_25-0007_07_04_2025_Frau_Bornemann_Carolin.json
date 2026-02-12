@@ -14,6 +14,14 @@
   "payment_days": 14,
   "send_email": false,
   "remote_cloud_var": true,
-  "save_pdf": false,
-  "items": []
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Rasenpflege-Vertikutieren",
+      "price": 100.0,
+      "total": 100.0
+    }
+  ]
 }
