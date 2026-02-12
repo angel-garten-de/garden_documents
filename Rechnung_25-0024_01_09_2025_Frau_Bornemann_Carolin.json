@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Carolin Bornemann",
+  "city": "GeesthachtGeesthacht",
+  "street": "Am Hang 21Am Hang 21",
+  "zip": "2150221502",
+  "date": "01.09.2025",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "25-0024",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege, Gartenmauerabdeckung und\nMüllplatz-Steinverfüllung inkl. Material\n29.08.2025",
+      "price": 910.0,
+      "total": 910.0
+    }
+  ]
+}
