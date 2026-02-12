@@ -14,7 +14,7 @@
   "payment_days": 14,
   "send_email": false,
   "remote_cloud_var": true,
-  "save_pdf": false,
+  "save_pdf": true,
   "items": [
     {
       "no": "1",
