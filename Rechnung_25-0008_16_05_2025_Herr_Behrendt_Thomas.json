@@ -10,7 +10,7 @@
   "gender": "Herr",
   "doc_type": "Rechnung",
   "invoice_number": "25-0008",
-  "payment_mode": "cash",
+  "payment_mode": "transfer",
   "payment_days": 14,
   "send_email": false,
   "remote_cloud_var": true,
