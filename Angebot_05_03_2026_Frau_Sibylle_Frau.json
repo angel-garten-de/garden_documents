@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Frau Sibylle",
+  "city": "Wentorf",
+  "street": "Kirschkoppel 18",
+  "zip": "21465",
+  "date": "05.03.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0029",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Steinreinigung, Steinaushub anschließende Verstärkung der Seitensteine mit Beton ,Nivellierung mit Splitt, anschließendesb Wiedereinsetzen der Steine ,Reparatur der Eingangssteine inkl. Material",
+      "price": 1100.0,
+      "total": 1100.0
+    }
+  ]
+}
