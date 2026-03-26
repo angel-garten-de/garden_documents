@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Frau Sibylle",
+  "city": "Wentorf",
+  "street": "Kirschkoppel 18",
+  "zip": "21465",
+  "date": "26.03.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0003",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Entfernung alter Steine und Erde ,Nivellerung mit neuer Erde sowie Bepflanzung mit Sträuchern.",
+      "price": 320.0,
+      "total": 320.0
+    },
+    {
+      "no": "2",
+      "qty": 1.0,
+      "description": "Ausbau alter Steine, Einbau neuer Steine sowie Reinigung  eines Teilbereichs der Steinfläche, inklusive Materialen.",
+      "price": 1660.0,
+      "total": 1660.0
+    }
+  ]
+}
