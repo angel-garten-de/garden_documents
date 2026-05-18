@@ -218,5 +218,15 @@
     "zip": "21465",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Frau Henze",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Plaissirstr. 34b",
+    "zip": "",
+    "gender": "Frau",
+    "version": 1
   }
 ]
