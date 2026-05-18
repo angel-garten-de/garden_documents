@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Ingeborg Spiel",
+  "city": "Geesthacht",
+  "street": "Hegebergstraße 75",
+  "zip": "21502",
+  "date": "18.05.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0008",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Reinigung des Hochbeets,Rasenmähen, Entfernung  von Unkraut  Abtransport und Entsorgung von Gartenabfällen\n04.05.2026",
+      "price": 130.0,
+      "total": 130.0
+    }
+  ]
+}
