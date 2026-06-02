@@ -228,5 +228,15 @@
     "zip": "",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Thomas Jubel",
+    "email": "",
+    "city": "Hamburg",
+    "street": "Kirchenheerweg 154",
+    "zip": "21037",
+    "gender": "Herr",
+    "version": 1
   }
 ]
