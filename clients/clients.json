@@ -238,5 +238,15 @@
     "zip": "21037",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Stefani  Lenkel",
+    "email": "",
+    "city": "Wentorf",
+    "street": "Am  Mühlenteich 3",
+    "zip": "21465",
+    "gender": "Frau",
+    "version": 1
   }
 ]
