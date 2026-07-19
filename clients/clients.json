@@ -258,5 +258,15 @@
     "zip": "21502",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Damen und Heren",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Geesthachter Straße 86",
+    "zip": "21502",
+    "gender": "",
+    "version": 1
   }
 ]
