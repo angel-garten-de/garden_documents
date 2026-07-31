@@ -268,5 +268,15 @@
     "zip": "21502",
     "gender": "",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Herr Csicovszki",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "",
+    "zip": "21502",
+    "gender": "Herr",
+    "version": 1
   }
 ]
