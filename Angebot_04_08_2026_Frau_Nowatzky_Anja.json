@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Anja Nowatzky",
+  "city": "Geesthacht",
+  "street": "Elbstraße 4d",
+  "zip": "21502",
+  "date": "04.08.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Busch- und Strauchschnitt, Entfernung und  Entsorgung",
+      "price": 1000.0,
+      "total": 1000.0
+    }
+  ]
+}

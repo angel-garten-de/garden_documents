@@ -288,5 +288,15 @@
     "zip": "21465",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Anja Nowatzky",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Elbstraße 4d",
+    "zip": "21502",
+    "gender": "Frau",
+    "version": 1
   }
 ]
