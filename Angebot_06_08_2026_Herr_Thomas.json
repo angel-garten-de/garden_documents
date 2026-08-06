@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Thomas",
+  "city": "Brunsbek",
+  "street": "Wischhof 21",
+  "zip": "22946",
+  "date": "06.08.2026",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Auszuführende Arbeiten -Fläche 120m²",
+      "price": 9000.0,
+      "total": 9000.0
+    }
+  ]
+}
