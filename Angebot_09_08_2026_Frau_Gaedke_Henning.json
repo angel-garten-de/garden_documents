@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Henning Gaedke",
+  "city": "Aumühle",
+  "street": "Ellerhorst",
+  "zip": "21521",
+  "date": "09.08.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Setzen und Einbetonieren von Granit- Randsteinen zur Einfassung der Betonfläche.",
+      "price": 1005.0,
+      "total": 1005.0
+    }
+  ]
+}
