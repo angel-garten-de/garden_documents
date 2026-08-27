@@ -328,5 +328,15 @@
     "zip": "21521",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Bärbel Abitz",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Hegebergstraße 3",
+    "zip": "21502",
+    "gender": "Frau",
+    "version": 1
   }
 ]
