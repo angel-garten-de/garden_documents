@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Herr Csicovszki",
+  "city": "Geesthacht",
+  "street": "Geesthachter Straße  86",
+  "zip": "21502",
+  "date": "27.08.2026",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0020",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege: entfernung von Unkraut ,Rasenmähen und Entsorgung des anfallenden Schnittguts.",
+      "price": 350.0,
+      "total": 350.0
+    }
+  ]
+}
