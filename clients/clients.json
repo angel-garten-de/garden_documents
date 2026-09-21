@@ -338,5 +338,15 @@
     "zip": "21502",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Familie Hörstel",
+    "email": "",
+    "city": "",
+    "street": "",
+    "zip": "",
+    "gender": "Frau",
+    "version": 1
   }
 ]
