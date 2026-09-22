@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Klaus Boockhaff",
+  "city": "Geesthacht",
+  "street": "Steinstr. 5a",
+  "zip": "21502",
+  "date": "23.09.2026",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0021",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Reinigung des Carport-Daches",
+      "price": 450.0,
+      "total": 450.0
+    }
+  ]
+}
