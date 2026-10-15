@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Marga Schäfer",
+  "city": "Hamburg",
+  "street": "Bredenbekhoern 3",
+  "zip": "22397",
+  "date": "15.10.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0022",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Heckenschneiden,",
+      "price": 700.0,
+      "total": 700.0
+    }
+  ]
+}
