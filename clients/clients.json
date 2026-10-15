@@ -348,5 +348,15 @@
     "zip": "",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Alina Henze",
+    "email": "",
+    "city": "Geesthacht",
+    "street": "Plaissirstraße 34b",
+    "zip": "21502",
+    "gender": "Frau",
+    "version": 1
   }
 ]
