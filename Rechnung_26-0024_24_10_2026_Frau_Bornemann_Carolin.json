@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Carolin Bornemann",
+  "city": "Geesthacht",
+  "street": "Am Hang 21",
+  "zip": "21502",
+  "date": "24.10.2026",
+  "email": "",
+  "gender": "Frau",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0024",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege, Büsche schneiden,Heckeschneiden,inkl Abtransport und Entsorgung  des Schnittguts.",
+      "price": 430.0,
+      "total": 430.0
+    }
+  ]
+}
