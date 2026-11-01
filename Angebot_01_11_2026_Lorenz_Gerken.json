@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Gerken und Lorenz",
+  "city": "Reinbek",
+  "street": "Große Straße 48a",
+  "zip": "21465",
+  "date": "01.11.2026",
+  "email": "",
+  "gender": "",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Jahresangebot - Gartenpflege\nMatthias - Claudius - Straße 19a",
+      "price": 200.0,
+      "total": 200.0
+    }
+  ]
+}

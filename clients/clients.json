@@ -358,5 +358,15 @@
     "zip": "21502",
     "gender": "Frau",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Gerken und Lorenz",
+    "email": "",
+    "city": "Reinbek",
+    "street": "Große Straße 48a",
+    "zip": "21465",
+    "gender": "",
+    "version": 1
   }
 ]
