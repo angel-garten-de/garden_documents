@@ -368,5 +368,15 @@
     "zip": "21465",
     "gender": "",
     "version": 1
+  },
+  {
+    "company_name": "",
+    "client_name": "Thomas Grotz",
+    "email": "",
+    "city": "Brunsbek",
+    "street": "Wischhof 21",
+    "zip": "22946",
+    "gender": "Herr",
+    "version": 1
   }
 ]
