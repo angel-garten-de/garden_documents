@@ -378,5 +378,15 @@
     "zip": "22946",
     "gender": "Herr",
     "version": 1
+  },
+  {
+    "company_name": "ATE  Beteiligungsgesellschaft",
+    "client_name": "Till Eichholz",
+    "email": "",
+    "city": "",
+    "street": "",
+    "zip": "",
+    "gender": "Herr",
+    "version": 1
   }
 ]

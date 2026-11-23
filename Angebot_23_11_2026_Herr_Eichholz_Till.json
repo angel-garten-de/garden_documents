@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "ATE  Beteiligungsgesellschaft",
+  "client_name": "Till Eichholz",
+  "city": "",
+  "street": "",
+  "zip": "",
+  "date": "23.11.2026",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Angebot",
+  "invoice_number": "26-0030",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Leistungsbeschreibung-Gartenpflege und Gebäudereinigung",
+      "price": 100.0,
+      "total": 100.0
+    }
+  ]
+}
