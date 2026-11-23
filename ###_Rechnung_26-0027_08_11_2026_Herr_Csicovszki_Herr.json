@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "company_name": "",
+  "client_name": "Herr Csicovszki",
+  "city": "Geesthacht",
+  "street": "Geesthachter Straße  86",
+  "zip": "21502",
+  "date": "08.11.2026",
+  "email": "",
+  "gender": "Herr",
+  "doc_type": "Rechnung",
+  "invoice_number": "26-0027",
+  "payment_mode": "transfer",
+  "payment_days": 14,
+  "send_email": false,
+  "remote_cloud_var": true,
+  "save_pdf": true,
+  "items": [
+    {
+      "no": "1",
+      "qty": 1.0,
+      "description": "Gartenpflege: Rasenmähen  inkl.Entfernung des Grasschnitts sowie anschließendes Reinigen der gesamten Fläche mit einem Laubbläser.",
+      "price": 450.0,
+      "total": 450.0
+    }
+  ]
+}
